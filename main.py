@@ -14,7 +14,7 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton, WebAppInfo
 from PIL import Image, ImageDraw, ImageFont
 
 import ast
-token = "8336013657:AAFEkJjyPfiHf_Fz0FEZf5IMzrE-_u_9XAg"
+token = "a token"
 bot = telebot.TeleBot(token)
 
 DATA_FILE = "user_data.json"
